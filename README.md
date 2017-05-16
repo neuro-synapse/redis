@@ -17,7 +17,7 @@ Role Variables
 The variables that can be passed to this role and a brief description about
 them are as follows. See the documentation for Redis for details:
 
-	redis_bind_address                # The network address for redis to bind to 
+	redis_bind_address                # The network address for redis to bind to
         redis_port: 6379                  # Port for redis server
 	redis_syslog_enabled: "yes"       # enable_syslog
 	redis_databases: 16               # Set number of databases
@@ -77,3 +77,4 @@ Author Information
 Benno Joy
 
 testing ideas
+bad ideas 2
